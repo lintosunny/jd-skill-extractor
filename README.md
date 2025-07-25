@@ -14,7 +14,7 @@
 - Paste job description and analyze instantly
 - JSON output with importance score totaling 100
 
----
+
 
 ## ⚙️ Installation
 
