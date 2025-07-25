@@ -4,7 +4,7 @@
 
 ![app_screenshot](app_screenshot.png)
 
----
+
 
 ## 🚀 Features
 
@@ -41,6 +41,7 @@ pip install -r requirements.txt
 ```
 
 4. **Setup your API Key**:
+
 Create a ```.env``` file in the root directory and add your Groq API key:
 
 ```
@@ -53,7 +54,7 @@ streamlit run app.py
 ```
 Once started app will be open in your default web browser.
 
----
+
 
 ## 💡 How It Works
 
@@ -62,29 +63,28 @@ Once started app will be open in your default web browser.
 - The LLM returns a **JSON response** with each skill and its importance.
 - The response is visualized using a **horizontal bar chart** via Plotly.
 
----
 
 ## 🛠️ Future Enhancements
 
-- ⬇️ CSV download for extracted skills  
-- 📄 Resume matching feature  
-- 🔄 Multiple JD comparison  
-- 🧠 Skill category classification
+- CSV download for extracted skills  
+- Resume matching feature  
+- Multiple JD comparison  
+- Skill category classification
 
----
+
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
----
+
 
 ## 📄 License
 
 This project is open-source and available under the **MIT License**.
 
----
+
 
 ## 🙋‍♂️ Author
 
-**Linto Sunny**  [LinkedIn](https://linkedin.com/in/lintons) • [GitHub](https://github.com/lintosunny)
+**Linto Sunny** • [LinkedIn](https://linkedin.com/in/lintons) • [GitHub](https://github.com/lintosunny)
