@@ -1,0 +1,6 @@
+streamlit==1.45.1
+pandas==2.2.3
+langchain-groq==0.3.6
+langchain-core==0.3.72
+plotly==5.24.1
+streamlit_lottie==0.0.5
